@@ -1,10 +1,6 @@
-Here's a README file for the components you mentioned, along with your introduction:
-
----
-
 # React Interactive Components
 
-This repository contains a set of interactive components designed to enhance user experience on your React application. Each component is built with a specific scroll-based or interaction-driven functionality to make the UI more engaging.
+This repository contains a set of interactive components designed to enhance user experience on React application. Each component is built with a specific scroll-based or interaction-driven functionality to make the UI more engaging.
 
 ## Table of Contents
 
@@ -22,15 +18,6 @@ The **RevolvingBox** component is a scroll-triggered element that revolves or ro
 - Rotates on scroll: The box will rotate based on the scroll position, giving the illusion of a 3D effect.
 - Customizable speed and angle: Easily modify the rotation speed and angle to suit the design needs.
 
-### Usage:
-```jsx
-import RevolvingBox from './RevolvingBox';
-
-const YourComponent = () => (
-  <div>
-    <RevolvingBox />
-  </div>
-);
 ```
 
 ## FoldingBoxes Component (Interactive Folding Sections)
@@ -42,15 +29,6 @@ The **FoldingBoxes** component allows you to create collapsible sections that ca
 - Click-to-toggle functionality: Each box can be clicked to toggle between folded and unfolded states.
 - Smooth animations: The folding and unfolding actions are animated to enhance the user experience.
 
-### Usage:
-```jsx
-import FoldingBoxes from './FoldingBoxes';
-
-const YourComponent = () => (
-  <div>
-    <FoldingBoxes />
-  </div>
-);
 ```
 
 ## Footer Component (Scroll-triggered Preloader)
@@ -62,15 +40,6 @@ The **Footer** component includes a scroll-triggered preloader that is activated
 - Scroll-based activation: The preloader is shown when the user scrolls to the footer, providing a seamless experience.
 - Customizable loader: You can customize the appearance of the loader, such as its color and size.
 
-### Usage:
-```jsx
-import Footer from './Footer';
-
-const YourComponent = () => (
-  <div>
-    <Footer />
-  </div>
-);
 ```
 
 ---
@@ -86,7 +55,3 @@ Hi, I'm **Bhargavi**, a **MERN Full Stack Developer** with a strong background i
 - Passionate about writing clean, optimized, and maintainable code.
 
 With my expertise, I am eager to contribute to your team's success by building high-performance applications and solving complex problems. I am ready to start immediately and look forward to discussing how I can add value to your projects.
-
----
-
-Feel free to add any additional details or adjust the components to fit your project!
